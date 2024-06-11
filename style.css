@@ -1,0 +1,62 @@
+h1{
+    font-size: 50px;
+}
+.pinkcolor{
+    color: rgb(218, 15, 83);
+}
+.linkbutton{
+   background-color: rgb(244, 5, 45);
+   color: white;
+   padding: 10px 15px;
+   border-radius: 5px;
+   text-decoration: none;
+   font-weight: 700;
+   margin-top: 100px;
+}
+.half-width img{
+    width: 100%;
+}
+.half-width{
+    width: 40%;
+    padding-left: 5%;
+    margin-left: 3%;
+    float: left;
+}
+.top-banner{
+background-image: url(images/header-bg.png);
+
+
+}
+section{
+    padding-bottom: 150px;
+    height: 600px;
+}
+.Middle-banner{
+    background-image: url(images/biography-bg.png);
+}
+.onethird img{
+    width: 100%;
+}
+.onethird{
+    width: 30%;
+    float: left;
+    padding-left: 2%; 
+}
+.latest-work{
+    padding-left: 100px;
+    padding-bottom: 200px;
+    margin-bottom: 200px;
+    }
+.cntre{
+    text-align: center;
+}
+.texte{
+    height: 70px;
+    width: 600px;
+    background-color: palevioletred;
+    margin-left: 30%;
+    color: white;
+    padding: 30px;
+   
+    
+}
